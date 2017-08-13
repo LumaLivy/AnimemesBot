@@ -1,0 +1,4 @@
+/__pycache__
+client_secret.json
+praw.ini
+tweepy_config.py
